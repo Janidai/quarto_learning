@@ -3,6 +3,7 @@ title: "Quarto Computations"
 format:
   html:
     code-fold: true
+    code-tools: true
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 ---
 
